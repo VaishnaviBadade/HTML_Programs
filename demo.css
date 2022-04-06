@@ -1,0 +1,11 @@
+body{
+    background-color: coral;
+    background-image: url(./img/apple.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-attachment: fixed;
+    background-position: right top;
+}
+#id1{
+    font-family: 'Courier New', Courier, monospace;
+}
